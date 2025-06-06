@@ -3,7 +3,7 @@
 
 ### The general pipeline for memoization
 ### Figure A.1
-<p align="center"><img src="../images/memoization.png" alt="memoization pipeline" width="450"/></p>
+<p align="center"><img src="./images/memoization.png" alt="memoization pipeline" width="450"/></p>
 
 
 ### The Accuracy and the normalized performance with different τ
